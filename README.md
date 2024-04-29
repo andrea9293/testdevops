@@ -3,7 +3,7 @@
 # INSTALLAZIONE DEVOPS CENTER
 https://help.salesforce.com/s/articleView?id=sf.devops_center_setup_install.htm&type=5
 non c'è rollback degli item
-non c'è gestione hotfix quindi un item hotfix si deve fare obbligatoriamente tutta la catena
+non c'è gestione hotfix quindi un item hotfix si deve fare obbligatoriamente tutta la catena. il problema è che una volta arrivato in uat non si può avanzare un solo item
 
 # COMANDI SCRATCH
 posizionarsi già sulla devhub
